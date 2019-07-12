@@ -1,0 +1,21 @@
+It is easier to compare differences if only different parts are shown
+it is nice that surrounding information is shown when using FC filename1 filename2 in command line
+(using git bash is more like using unix - i don't have any experience here)
+
+Having a history of files makes it easier to find bugs, as you can see what changed between the last version that works and the first version that did not work
+Comparing older solutions to newer versions might help to see what version actually did work and therefore I might be able to learn easier from my experience
+
+Manually saving commits helps to only save versions that will actually build.
+It had the advantage, that I will have a good overview of the last changes, if they are properly documented in the commit. for automatically saved versions those comments would not be possible.
+Commiting after logical changes is probably a good idea for bug fixing, as it is clear what feature was added.
+If one forgets manually commits it might be a huge change to the previous version which would make it rally hard to finde bugs. 
+
+Saving multiple files in one commit helps if those files are strongly interacting. e.g. if a variable that is used in both files has changes this applies for both files. 
+GoogleDocs does not need this, as the files are usually not really interacting but seperate.
+
+Using git log helps to see all commits for this file, this helps to get a history with an overview of what has changes, was added or fixed and when this change was done. I can also see who did this change.
+Using git diff helps to compare to commits and shows exactly which lanes have changed between those to commits. this helps to more deeply understand a certain change.
+
+If i make a change that breaks the functionality I can always go back to the previous version. I might be more comfortable trying things as I know I can always go back the the last working version.
+
+I want to use git to be able to see old commits, checkout old versions and compare different commits.
