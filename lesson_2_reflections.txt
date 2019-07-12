@@ -1,1 +1,3 @@
-I need to inititialize my repository to create a git folder that will track all my changes. Otherwise I cannot commit any changes
+I need to inititialize my repository to create a git folder that will track all my changes. Otherwise I cannot commit any changes.
+
+the staging area can include more than one change, that I can then later on commit at one time. It offers me the change to not have to commit each change at once.
