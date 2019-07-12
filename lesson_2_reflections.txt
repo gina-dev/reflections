@@ -1,0 +1,1 @@
+I need to inititialize my repository to create a git folder that will track all my changes. Otherwise I cannot commit any changes
