@@ -1,3 +1,7 @@
 I need to inititialize my repository to create a git folder that will track all my changes. Otherwise I cannot commit any changes.
 
 the staging area can include more than one change, that I can then later on commit at one time. It offers me the change to not have to commit each change at once.
+
+I can always check what is currently in my staging area and have to make sure this is just one logical change. I will then be able to commit more than one change with one commit.
+
+branching is helpful, when I want to make changes that I do not need in my master brancht. This might be helpful if I think that the branch might break the whole system, when I want to create a different version that does not need to be in the master. e.g. an easier version of a game or another language.
