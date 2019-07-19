@@ -1,0 +1,1 @@
+Using a remote repository is very helpfull wehen I work with other devs that want to contribute. It also helps when I work on different PC. Additionally it is always save to have it not only on my own hardrive which might break/get lost.
