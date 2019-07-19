@@ -1,1 +1,3 @@
 Using a remote repository is very helpfull wehen I work with other devs that want to contribute. It also helps when I work on different PC. Additionally it is always save to have it not only on my own hardrive which might break/get lost.
+
+If I am still testing my features I might not want to have them already commited to GitHub so that other devs try to use them. Automatically saving would additonally not make sese as I might not yet be finished and therefore would not have a functioning version ready.
